@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cmyers009
-- 👀 I’m interested in computer vision.
-- 🌱 I’m currently learning machine learning.
+- 👀 I’m interested in machine learning, NLP, computer vision
+- 🌱 I’m currently learning transformers.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
